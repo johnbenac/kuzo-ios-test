@@ -1,0 +1,1 @@
+../../Kuzu.xcframework/ios-arm64/Headers/c_api/kuzu.h
